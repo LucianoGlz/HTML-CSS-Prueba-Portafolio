@@ -4,7 +4,7 @@ Este es mi primera practica de HTML y CSS, usando metodología BEM.
 ## Autor 
 **Luciano Gonzalez**
 
-*[Linkedin](www.linkedin.com/in/luciano-gonzalez-6a700a289)
+[Linkedin](www.linkedin.com/in/luciano-gonzalez-6a700a289)
 *[Porfolio web]()
 
 ## Ver ejemplo en vivo
