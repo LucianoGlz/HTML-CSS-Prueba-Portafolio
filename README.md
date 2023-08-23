@@ -8,7 +8,7 @@ Practica de HTML y CSS, usando metodología BEM.
 *[Porfolio web]()
 
 ## Ver ejemplo en vivo
-[- [ClickAqui]](https://lucianoglz.github.io/HTML-CSS-Prueba-Portafolio/)
+[[ClickAqui]](https://lucianoglz.github.io/HTML-CSS-Prueba-Portafolio/)
   
 ## Contratación
 Si quieres contratarme puedes escribirme a lucdgonz3@gmail.com para consultas.
