@@ -1,5 +1,5 @@
 ## Descripción 
-Este es mi primera practica de HTML y CSS, usando metodología BEM.
+Practica de HTML y CSS, usando metodología BEM.
 
 ## Autor 
 **Luciano Gonzalez**
