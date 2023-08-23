@@ -5,7 +5,7 @@ Practica de HTML y CSS, usando metodología BEM.
 **Luciano Gonzalez**
 
 [Linkedin](www.linkedin.com/in/luciano-gonzalez-6a700a289)
-*[Porfolio web]()
+[Porfolio web]()
 
 ## Ver ejemplo en vivo
 [[ClickAqui]](https://lucianoglz.github.io/HTML-CSS-Prueba-Portafolio/)
