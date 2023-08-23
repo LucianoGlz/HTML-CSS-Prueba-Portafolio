@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Handjet:wght@500&family=Open+Sans&family=PT+Sans&family=Source+Code+Pro:wght@500&family=Source+Sans+3:wght@200;300;500&family=Work+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #141414;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    max-width: 1600px;
+}
+
+.cont-img {
+    padding: 25px;
+}
+
+.cont-img img {
+    width: 500px;
+}
+
+.cont-info {
+    display: flex;
+    flex-flow: column wrap;
+    font-size: 15px;
+    padding: 25px;
+}
+
+
+.text-study h3 {
+    color: #00F09C;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 3em;
+}
+
+
+.text-name h2 {
+    color: #fff;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 4.5em;
+}
+
+
+.cont-info hr {
+    width: 20%;
+    height: .3em;
+    border: none;
+    background-color: #00F09C;
+    margin-bottom: 2.5em;
+}
+
+
+.text-info p {
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 1.3em;
+    margin-bottom: 1.2em;
+}
+
+
+.text-info-staff {
+    display: flex;
+    border: .3em solid #00F09C;
+    font-family: sans-serif;
+    margin-bottom: 1.5em;
+}
+
+.text-info-staff .cont-staff {
+    display: flex;
+    flex-direction: column;
+    margin: 1em 3em;
+}
+
+.cont-staff span {
+    color: #fff;
+    margin: .3em 0;
+    font-size: 1.3em;
+}
+
+.contact-info i {
+    font-size: 3.5em;
+    color: #00F09C;
+    cursor: pointer;
+    margin-right: .3em;
+}
+
+.contact-info i:hover {
+    font-size: 3.5em;
+    color: #00d188;
+}
+
+/* ---Responsive--- */
+
+@media screen and (max-width: 1200px) {
+    .cont-img img {  
+        width: 550px;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .container {  
+        flex-direction: column;
+    }
+}
